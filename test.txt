@@ -1,0 +1,5 @@
+1. git checkout -b "branch name"
+2. fast forwards only happen when the main branch has not been touched or worked on while modifications are made on other branches.
+3. git checkout "branch name"
+4. git branch -d "branch name"
+5. Merge conflicts happen when you try to merge 2 seperate branches that have modification on the same files. Git will ask you to manually adjust the work so that only 1 version remains. 
